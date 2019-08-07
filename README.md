@@ -13,3 +13,5 @@ Controlling the Head leds : bb8_Headv06
 Controlling the Head motor: bb8_HeadMovementv01
 
 Build process can be found here: https://bb8builders.club/forum/showthread.php?2274-Massassi-s-Build-log
+
+Sound files are not included in this GitHUB but can be found on the : https://bb8builders.club
