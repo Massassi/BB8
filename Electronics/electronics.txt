@@ -1,0 +1,1 @@
+These images contain the electronics and how they are connected. Also this shows the connects pins, which are needed in the code
